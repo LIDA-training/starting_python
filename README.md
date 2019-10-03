@@ -4,4 +4,4 @@
 Author: Francisco Videira
 Start date: 2019-10-03
 
-See LICENCE.md for lincence attached to this code
+See LICENCE.md for lincence attached to this code which is covered by an MIT licence.
